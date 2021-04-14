@@ -13,7 +13,7 @@ image_caption: "Architect at work. Daniel McCullough, unsplash.com"
 
 Web services have been around for as long as the HTTP protocol has existed. But especially since the advent of cloud computing, they have become a very common way of letting clients interact with our data.
 
-I haven't been lucky enough to be a developer when SOAP APIs were still around. So I've mostly known **REST**, a resource-based architectural style for building APIs.
+I haven't been lucky enough to be a developer when SOAP APIs were still around. So I've mostly known **REST**, a resource-based architectural style for [building APIs](https://www.toptal.com/product-managers/api/api-product-management).
 
 For a year or two already, **I have been working on projects involving either building or using APIs.**
 
